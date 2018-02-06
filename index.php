@@ -4,7 +4,8 @@ if(false){
     
 }
 
-// Ceci est un commentaire
-echo 'blablabla';
+
+echo 'blablablablabla';
+// Ceci est un commentaire de test
 
 ?>
